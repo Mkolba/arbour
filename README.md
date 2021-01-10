@@ -1,4 +1,3 @@
-# Arbour
 ## Методы API:
 
 - **ai.recognizeEmotions [POST-запрос]**
